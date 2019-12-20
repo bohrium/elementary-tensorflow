@@ -1,0 +1,5 @@
+source/MNIST_data/*
+source/checkpoints/*
+source/logs/*
+source/*.pyc
+*.pyc
