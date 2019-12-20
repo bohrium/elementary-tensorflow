@@ -1,8 +1,8 @@
-[](author: samtenka)
-[](changed: 2019-12-19)
-[](created: 2017-10-06)
-[](descr: Entry point to TF Tutorial)
-[](usage: Open and read this document in a web browser.)
+[//]: # (author: samtenka)
+[//]: # (changed: 2019-12-19)
+[//]: # (created: 2017-10-06)
+[//]: # (descr: Entry point to TF Tutorial)
+[//]: # (usage: Open and read this document in a web browser.)
 
 # [MSAIL](http://msail.github.io) 2017 Tensorflow Tutorial
 ## by Ankit Goila, Uriah Israel, and Sam Tenka 
